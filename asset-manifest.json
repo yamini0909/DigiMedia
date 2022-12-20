@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/yamini0909/DigiMedia/static/css/main.a9e1dab4.css",
+    "main.js": "/yamini0909/DigiMedia/static/js/main.63cc6e69.js",
+    "static/js/787.7c64913c.chunk.js": "/yamini0909/DigiMedia/static/js/787.7c64913c.chunk.js",
+    "static/media/36284250.jpg": "/yamini0909/DigiMedia/static/media/36284250.36b04268886d116caacc.jpg",
+    "static/media/login-img.jpg": "/yamini0909/DigiMedia/static/media/login-img.ba2d9d57ecd18452b998.jpg",
+    "static/media/40781013.jpg": "/yamini0909/DigiMedia/static/media/40781013.7d6bbdb631782c93e5a5.jpg",
+    "static/media/pic1.jpg": "/yamini0909/DigiMedia/static/media/pic1.a1c3f5b06ade94e15525.jpg",
+    "static/media/pic2.png": "/yamini0909/DigiMedia/static/media/pic2.6f443baf2290bac1b5b9.png",
+    "static/media/blog-post-01.jpeg": "/yamini0909/DigiMedia/static/media/blog-post-01.608a859b86cf5cf49d1c.jpeg",
+    "static/media/blog-post-02.jpeg": "/yamini0909/DigiMedia/static/media/blog-post-02.0c0c0273059c193489fa.jpeg",
+    "static/media/portfolio-01.jpeg": "/yamini0909/DigiMedia/static/media/portfolio-01.0c18be12f95d52e88d70.jpeg",
+    "static/media/blog-post-03.jpeg": "/yamini0909/DigiMedia/static/media/blog-post-03.7e2e4da2ffed9e61fe83.jpeg",
+    "static/media/quote-bg-v3.jpeg": "/yamini0909/DigiMedia/static/media/quote-bg-v3.6f44f90b0466611df27b.jpeg",
+    "index.html": "/yamini0909/DigiMedia/index.html",
+    "main.a9e1dab4.css.map": "/yamini0909/DigiMedia/static/css/main.a9e1dab4.css.map",
+    "main.63cc6e69.js.map": "/yamini0909/DigiMedia/static/js/main.63cc6e69.js.map",
+    "787.7c64913c.chunk.js.map": "/yamini0909/DigiMedia/static/js/787.7c64913c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9e1dab4.css",
+    "static/js/main.63cc6e69.js"
+  ]
+}
