@@ -1,12 +1,14 @@
 import React from 'react'
-import Img3 from "../img/portfolio-01.jpeg"
-import Img4 from "../img/blog-post-02.jpeg"
-import Img5 from "../img/blog-post-03.jpeg"
-import Img6 from "../img/portfolio-04.jpeg"
+import Img3 from "../../img/portfolio-01.jpeg"
+import Img4 from "../../img/blog-post-02.jpeg"
+import Img5 from "../../img/blog-post-03.jpeg"
+import Img6 from "../../img/portfolio-04.jpeg"
+import Header from '../Header/Header'
 
 const Project = () => {
   return (
     <div>
+              <Header />
          <div className="project-section section">
             <div className="project-heading">
                 <div className="project-heading-agency nav-bar-subheading">

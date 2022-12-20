@@ -1,0 +1,80 @@
+/* MOBILE STYLING */
+
+.header .menu,.open-menu{
+    display: none;
+}
+
+@media only screen and (max-width: 767px) {
+   .header .menu{
+        display: block;
+        display: flex;
+    justify-content: center;
+    align-items: center;
+    }
+    .common-links{
+        display: none;
+    }
+    .header .heading-digimedia{
+        
+        color: white;
+    }
+    .header{
+        background-color: #4da6e7;
+    }
+
+   
+}
+@media only screen and (max-width: 767px) {
+     .open-menu{
+        width: 100%;
+        display: block;
+        /* border: 3px solid red; */
+        margin: 20px 0;
+        background-color:white;
+        color: #4da6e7;
+        font-size: 24px;
+        text-decoration: none;
+        font-weight: 500;
+    }
+    .open-menu-opts{
+        padding: 10px;
+        margin-top: 100px;
+    }
+     .option{
+       margin: 10px 0;
+    display: block;
+    cursor: pointer;
+    font-size: larger;
+    font-weight: 600;
+    }
+    .illustation-img{
+        margin: 0;
+    }
+    .desc-txt{
+        font-size: 20px;
+        color: black;
+        font-weight: 900;
+    }
+    .bold-heading-promotion{
+        font-size: 40px;
+        font-weight: 500;
+    }
+    .home-section{
+        display: block;
+    }
+    .home-content{
+        margin: 40px 20px;
+    }
+    .about-section{
+        display: block;
+    }
+    .color-txt{
+        font-weight: 600;
+    }
+    .btn-freequotes{
+        font-size: 20px;
+        font-weight: 900;
+        border: 5px solid #4da6e7;
+        width: 60%;
+    }
+}

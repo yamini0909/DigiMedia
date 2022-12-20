@@ -1,10 +1,13 @@
 import React from 'react'
-import "../App.css"
-import Pic2 from "../img/pic2.png"
+import "../../App.css"
 
+import Pic2 from "../../img/pic2.png"
+import Header from '../Header/Header'
 const About = () => {
   return (
+    
     <div>
+              <Header />
         <div className="about-section section border-main">
     <div className="illustation-img border ">
         <img className=" img" src={Pic2} alt=""/>

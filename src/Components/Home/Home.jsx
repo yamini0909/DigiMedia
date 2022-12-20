@@ -1,9 +1,11 @@
 import React from 'react'
-import Pic1 from '../img/pic1.jpg';
+import Pic1 from '../../img/pic1.jpg';
+import Header from '../Header/Header';
 
 const Home = () => {
   return (
     <div>
+              <Header/>
           <div className="home-section section border-main">
             <div className="home-content border">
                 <div className="home-heading-agency nav-bar-subheading">

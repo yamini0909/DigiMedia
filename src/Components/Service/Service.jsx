@@ -1,16 +1,18 @@
 import React from "react";
-import Icon1 from "../img/Icon1.png";
-import Icon2 from "../img/Icon2.png";
+import Icon1 from "../../img/Icon1.png";
+import Icon2 from "../../img/Icon2.png";
 
-import Icon3 from "../img/Icon3.png";
+import Icon3 from "../../img/Icon3.png";
 
-import Icon4 from "../img/Icon4.png";
-import Icon5 from "../img/Icon5.png";
-import Img2 from "../img/36284250.jpg"
+import Icon4 from "../../img/Icon4.png";
+import Icon5 from "../../img/Icon5.png";
+import Img2 from "../../img/36284250.jpg"
+import Header from "../Header/Header";
 
 const Service = () => {
   return (
     <div>
+            <Header/>
       <div className="services-section section">
         <div className="servive-heading alg-cnt">
           <div className="service-heading-agency nav-bar-subheading">

@@ -1,13 +1,15 @@
 import React from 'react'
-import Contact1 from "../img/phone-icon.png"
-import Contact2 from "../img/email-icon.png"
-import Contact3 from "../img/location-icon.png"
+import Contact1 from "../../img/phone-icon.png"
+import Contact2 from "../../img/email-icon.png"
+import Contact3 from "../../img/location-icon.png"
+import Header from '../Header/Header'
 
 
 
 const Contact = () => {
   return (
     <>
+          <Header/>
     <div className="contact-section section ">
             <div className="contact-heading alg-cnt">
                 <div className="service-heading-agency nav-bar-subheading">
